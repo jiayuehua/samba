@@ -1,0 +1,2 @@
+#set same password as system
+smbpasswd
